@@ -2,6 +2,9 @@
 
 **Anonymised repository for paper no. 7003 submitted for peer review at ACM IMWUT (August 2021)**.
 <hr>
+
+![alt text](intro.png "Title")
+
 This repository contains codes to reproduce the figures and results. The folders are divided into *Forced Breathing* and *Tidal Breathing* The description of each file is mentioned below. 
 
 **Forced Breathing**
