@@ -1,6 +1,6 @@
 ## SpiroMask: Measuring Lung Function Using Consumer-Grade Masks
 
-**Anonymised repository for paper no. 7003 submitted for peer review at ACM IMWUT (August 2021)**.
+**Anonymised repository for paper submitted for peer review at ACM HEALTH (October 2021)**.
 <hr>
 
 ![alt text](intro.png "Title")
